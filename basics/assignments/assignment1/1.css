@@ -1,0 +1,15 @@
+.main{
+   display: flex;
+   margin: 40px;
+}
+.div1{
+    background-color: red;
+    padding-left: 20px;
+}
+.div2{
+    background-color: green;
+    height: 250px;
+}
+#div3{
+    margin-left: 30px;
+}
